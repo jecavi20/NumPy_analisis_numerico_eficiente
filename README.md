@@ -42,7 +42,7 @@ Realizar un análisis numero de un csv que contienen datos de precios de una pro
 - Descarga el archivo .ipynb
 - Inicia sesion con tu cuenta de Gmail
 - Abre Google Colab en https://colab.google/
-- Presiona Opoen Colab
+- Presiona Open Colab
 - Luego la pestaña subir
 - Sube el archivo .ipynb
 - Ejecuta las celdas en orden desde la primera hasta la ultima
